@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/04/demos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/04/demos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/04/demos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/02/demos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02/demos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02/demos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/06/demos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/06/demos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/06/demos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05/demos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/05/demos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/05/demos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03/demos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/03/demos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03/demos/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
